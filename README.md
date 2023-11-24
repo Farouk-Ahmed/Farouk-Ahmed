@@ -1,4 +1,4 @@
-<h1 align="center"> Hello I'm Ahmed Eprahim <br /> 
+<h1 align="center"> Hello I'm Farouk Ahmed <br /> 
   Full-Stack (.NET Core) Developer
 </h1>
 
@@ -10,7 +10,7 @@
 
 ---
 ## 👨🏻‍💻 About Me:
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="320" />
+<img align="right" alt="GIF" src="https://www.bing.com/images/search?view=detailV2&ccid=OMSPoOni&id=BE8D1531E0C2057A35508B44E5F70C157BC23A9B&thid=OIP.OMSPoOni29TH0OYX1_mDLAHaC9&mediaurl=https%3a%2f%2fstorage.googleapis.com%2fbjweb%2ftinymce%2f5bd19067acf86.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.38c48fa0e9e2dbd4c7d0e617d7f9832c%3frik%3dmzrCexUM9%252bVEiw%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d518%26srw%3d1300&exph=263&expw=659&q=devolper+ASp+dotnet&simid=608039620193498267&FORM=IRPRST&ck=060DAB09819A71DDA26556A8D61BF4F0&selectedIndex=2&ajaxhist=0&ajaxserp=0" width="420" height="320" />
 
 <!-- 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1E-Ck7tVNRY7BeU9AgF9cKCJ4uWh7O304/view?usp=sharing)**
@@ -43,16 +43,12 @@
   <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-%2314354C.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>  
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-%2343853D.svg?style=for-the-badge&logo=SQL Server&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
   <br>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
   <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
   
-  <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
   <img alt="Sass" src="https://img.shields.io/badge/Sass-D14836?style=for-the-badge&logo=sass&logoColor=white"/>
 <!--   <br>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -65,8 +61,6 @@
 <!--   <img alt="Docker" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25px"/> -->
   <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
   <br>
-  <img alt="PHP" src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=white" height="25px"/>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%230db7ed.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
@@ -79,7 +73,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-// [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
 
 
 
@@ -88,13 +81,13 @@
 
 <h2> Contact with me on </h2>
 
-- business email : ahmedeprahim.official@gmail.com
+- business email : faroukola99@gmail.com
 
 <p>
-  <a href="http://Wa.me/201007691743" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-  <a href="https://www.facebook.com/ahmedeprahima" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/ahmedeprahim" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto:ahmedeprahim.official@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="http://Wa.me/201064806913" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+  <a href="https://www.facebook.com/faroukola" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/Farouk Ahmed" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="mailto:faroukola99@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <p>
 
@@ -121,7 +114,7 @@
 </ul>
 
 
-![Ahmed Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedIbrahim-tech&theme=dark&include_all_commits=true&count_private=true&langs_count=true&hide_rank=true)
+![Farouk-Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedIbrahim-tech&theme=dark&include_all_commits=true&count_private=true&langs_count=true&hide_rank=true)
 
 <hr>
 
