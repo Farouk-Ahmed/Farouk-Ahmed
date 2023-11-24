@@ -86,8 +86,6 @@
 <p>
   <a href="https://www.facebook.com/profile.php?id=100004190251231" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/faroukela/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="https://mail.google.com/mail/u/0/?hl=ar#inbox" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 <p>
 
 <!-- <div>
