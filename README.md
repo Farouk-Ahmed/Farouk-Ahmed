@@ -103,24 +103,6 @@
 </div> -->
 
 
- <h2> What if you like my work? 🤩 </h2>
-<ul>
-  <li>You can Star ⭐ the repositories you like.</li>
-<!--   <li>You can react ❤️ to my LinkedIn posts.</li> -->
-</ul>
-
-
-![Farouk-Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farouk-Ahmed=dark&include_all_commits=true&count_private=true&langs_count=true&hide_rank=true)
-
-<hr>
-
 <h2> Samples from my projects </h2>
 
-### Top Movies
-A Simple Website To Show Top Rated Movies build by .NET 5.
-<!-- <p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
 
-<!--<hr>
-
-
-<hr>
