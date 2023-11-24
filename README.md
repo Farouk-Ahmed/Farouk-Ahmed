@@ -4,13 +4,12 @@
 
 ---
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="[./banner.png"](https://github.com/Farouk-Ahmed/Farouk-Ahmed/blob/main/5bd19067acf86.png) />
   
 </div>
 
 ---
 ## 👨🏻‍💻 About Me:
-<img align="right" alt="GIF" src="" width="420" height="320" />
 
 <!-- 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1E-Ck7tVNRY7BeU9AgF9cKCJ4uWh7O304/view?usp=sharing)**
