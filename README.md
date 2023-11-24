@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-  <img src ="[./banner.png"](https://github.com/Farouk-Ahmed/Farouk-Ahmed/blob/main/5bd19067acf86.png) />
+  <img src ="https://github.com/Farouk-Ahmed/Farouk-Ahmed/blob/main/5bd19067acf86.png"/>
   
 </div>
 
