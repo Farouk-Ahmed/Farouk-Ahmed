@@ -10,7 +10,7 @@
 
 ---
 ## 👨🏻‍💻 About Me:
-<img align="right" alt="GIF" src="https://www.bing.com/images/search?view=detailV2&ccid=OMSPoOni&id=BE8D1531E0C2057A35508B44E5F70C157BC23A9B&thid=OIP.OMSPoOni29TH0OYX1_mDLAHaC9&mediaurl=https%3a%2f%2fstorage.googleapis.com%2fbjweb%2ftinymce%2f5bd19067acf86.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.38c48fa0e9e2dbd4c7d0e617d7f9832c%3frik%3dmzrCexUM9%252bVEiw%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d518%26srw%3d1300&exph=263&expw=659&q=devolper+ASp+dotnet&simid=608039620193498267&FORM=IRPRST&ck=060DAB09819A71DDA26556A8D61BF4F0&selectedIndex=2&ajaxhist=0&ajaxserp=0" width="420" height="320" />
+<img align="right" alt="GIF" src="" width="420" height="320" />
 
 <!-- 
 - 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1E-Ck7tVNRY7BeU9AgF9cKCJ4uWh7O304/view?usp=sharing)**
@@ -84,10 +84,9 @@
 - business email : faroukola99@gmail.com
 
 <p>
-  <a href="http://Wa.me/201064806913" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-  <a href="https://www.facebook.com/faroukola" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/Farouk Ahmed" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto:faroukola99@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.facebook.com/profile.php?id=100004190251231" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/faroukela/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://mail.google.com/mail/u/0/?hl=ar#inbox" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <p>
 
@@ -114,7 +113,7 @@
 </ul>
 
 
-![Farouk-Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedIbrahim-tech&theme=dark&include_all_commits=true&count_private=true&langs_count=true&hide_rank=true)
+![Farouk-Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farouk-Ahmed=dark&include_all_commits=true&count_private=true&langs_count=true&hide_rank=true)
 
 <hr>
 
@@ -124,14 +123,7 @@
 A Simple Website To Show Top Rated Movies build by .NET 5.
 <!-- <p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
 
-<hr>
+<!--<hr>
 
-### File sharing
-Publish or make access to information such as multimedia or documents and e-books available By .Net Core 6
-
-<hr>
-
-### Smart Sales 
-Full Smart Sales System Using .Net 5
 
 <hr>
