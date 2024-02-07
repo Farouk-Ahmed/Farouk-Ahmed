@@ -1,5 +1,5 @@
 <h1 align="center"> Hello I'm Farouk Ahmed <br /> 
-  Full-Stack (.NET Core) Developer
+  Full-Stack (dot NET Core) Developer
 </h1>
 
 ---
