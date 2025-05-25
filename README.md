@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./dotnet.jpg" alt="Farouk Background" width="100%" />
+  <img src="./dotnet.jpg" alt="Full Background Readme" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Farouk Ahmed</h1>
 <h3 align="center">.NET Back-End Developer | Crafting Scalable Web Solutions with ASP.NET Core</h3>
 
