@@ -1,105 +1,38 @@
-<h1 align="center"> Hello I'm Farouk Ahmed <br /> 
-  Full-Stack (ASP .NET Core) Developer
-</h1>
+<h1 align="center">Hi 👋, I'm Farouk Ahmed</h1>
+<h3 align="center">.NET Back-End Developer | Crafting Scalable Web Solutions with ASP.NET Core</h3>
 
----
-<div align="center">
-  <img src ="https://externlabs.com/blogs/wp-content/uploads/2022/05/1111111111-1.jpg"/>
-  
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farouk-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="farouk-ahmed" /> </p>
 
----
-## 👨🏻‍💻 About Me:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farouk-ahmed" alt="farouk-ahmed" /></a> </p>
 
-<!-- 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1E-Ck7tVNRY7BeU9AgF9cKCJ4uWh7O304/view?usp=sharing)**
+- 🔭 I’m currently working on [Serv-Mart](https://github.com/Farouk-Ahmed/Serv-Mart.git)
 
-- 🔭 I’m currently working on `FreeLancer`.
- -->
-- 📫 Learning more about and studying : Angular , .NET Core
+- 🔭 I’m currently working on [Filesharing](https://github.com/Farouk-Ahmed/Filesharing.git)
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 🤝 I’m looking for help with [School-_Project](https://github.com/Farouk-Ahmed/School-_Project.git)
 
-- 🤔 I’m working on improving my skills in `Competitive Programming`.
+- 💬 Ask me about **ASP.NET Core, C#, Entity Framework Core, SQL Server, RESTful APIs, and building scalable web applications**
 
-- 🏢 Previously worked with Infosas Company.
+- 📫 How to reach me **faroukola99@gmail.com**
 
-- 👯 I'm looking to collaborate with other Developer.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fUMH3F8AfWr3cFdLRnBGFlg5YiMLuuq3/view?usp=sharing](https://drive.google.com/file/d/1fUMH3F8AfWr3cFdLRnBGFlg5YiMLuuq3/view?usp=sharing)
 
-- 2022 Goals: Working in Big Company & Create My Youtube Channel
+- ⚡ Fun fact **in my free time, I enjoy sports and diving into books on politics and history**
 
-- Fun fact: I love to draw & Reading & Play Games
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/‏farouk ahmed‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="‏farouk ahmed‏" height="30" width="40" /></a>
+<a href="https://fb.com/farouk ella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouk ella" height="30" width="40" /></a>
+<a href="https://instagram.com/farouk ella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farouk ella" height="30" width="40" /></a>
+<a href="https://discord.gg/farouk1275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="farouk1275" height="30" width="40" /></a>
+</p>
 
-- 💬 Ask me about anything :) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farouk-ahmed&show_icons=true&locale=en&layout=compact" alt="farouk-ahmed" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farouk-ahmed&show_icons=true&locale=en" alt="farouk-ahmed" /></p>
 
-##  🛠️ Languages , Frameworks and Tools I use
-<div>
-
-  <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-%2314354C.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>  
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-%2343853D.svg?style=for-the-badge&logo=SQL Server&logoColor=white"/>
-  <br>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-  <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-D14836?style=for-the-badge&logo=sass&logoColor=white"/>
-<!--   <br>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> -->
-  <br>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
-  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<!--   <img alt="Docker" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="25px"/> -->
-  <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-  <br>
-  <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-
-</div>
-
-<!-- ## 🛠️ Technologies
-<div>
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-
-
-
-</div> -->
-<br>
-
-<h2> Contact with me on </h2>
-
-- business email : faroukola99@gmail.com
-
-<p>
-  <a href="https://www.facebook.com/profile.php?id=100004190251231" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/faroukela/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<p>
-
-<!-- <div>
-  <a href="https://www.instagram.com/ahmed__eprahim_/" target="_blank">
-  <img alt="Instgram" src="https://img.shields.io/badge/instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009740082487" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:ah7.medib@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-ibrahim-72143a230/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div> -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouk-ahmed&" alt="farouk-ahmed" /></p>
 
